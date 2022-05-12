@@ -66,12 +66,12 @@
 
 ```bash
 
-> Cara Setting Tampilan Termux Menjadi Lebih Keren:v
+> Cara Spam SMS buat target:v
 
 ```
 ## PREVIEW
 <p align="center">
-  <img src="https://k.top4top.io/p_231058c5h0.png" />
+  <img src="https://b.top4top.io/p_23237rrz40.png" />
 </p>
   
 ## CMD INSTALL 
@@ -89,6 +89,6 @@
 > $ git clone https://github.com/kZtotorial/Spm-228.py
 > $ cd Spm-228.py
 > $ ls
-> $ python Smp-Sms-228.py
+> $ python Smp-Sms-225.py
 
 ```
