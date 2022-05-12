@@ -86,9 +86,9 @@
 > caranya adalah:
 
 > $ pkg install git
-> $ git clone https://github.com/kZtotorial/TAMPILAN-TERMUX
-> $ cd TAMPILAN-TERMUX
+> $ git clone https://github.com/kZtotorial/Spm-228.py
+> $ cd Spm-228.py
 > $ ls
-> $ python tampilan-stayling.py
+> $ python Smp-Sms-228.py
 
 ```
